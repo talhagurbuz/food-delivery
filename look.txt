@@ -1,0 +1,2 @@
+CSS
+outline, color:inherit, padding-block, margin-block, display:inline-block, inline?, stroke, row-gap, column-gap, .button:not():hover - not()?, css order?, grid-template-columns repeat?,  
